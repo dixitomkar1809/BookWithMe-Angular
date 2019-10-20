@@ -20,7 +20,8 @@
       "prefix": "bwm",
       "styles": [
         "styles.scss",
-        "D:/Git/BookWithMe/BookWithMe-Angular/node_modules/bootstrap/dist/css/bootstrap.min.css"
+        "D:/Git/BookWithMe/BookWithMe-Angular/node_modules/bootstrap/dist/css/bootstrap.min.css",
+        "D:/Git/BookWithMe/BookWithMe-Angular/node_modules/font-awesome/css/font-awesome.min.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
